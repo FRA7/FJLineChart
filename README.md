@@ -181,5 +181,4 @@
   
     [text drawInRect:texRrect withAttributes:@{NSFontAttributeName:[UIFont systemFontOfSize:11.0],NSForegroundColorAttributeName:[UIColor whiteColor]}];
 ```
----
-- 欢迎各位提建议或者补充，[Demo地址](https://github.com/kevinzhow/PNChart)
+
