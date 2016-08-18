@@ -18,6 +18,7 @@
     self.lineView = LineView;
 ```
 - 绘制思路
+
 1 绘制间距
 ```objc
     CGFloat x_space=(rect.size.width -20) / (self.xKeDuValus.count-1);
